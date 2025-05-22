@@ -4,8 +4,8 @@ public class App {
     public static void main(String[] args) throws Exception {
         // Pilha da carga dos servidores
         Stack<Integer> carga = new Stack<>();
-        // Adicionando cargas aos servidores
 
+        // Adicionando cargas aos servidores
         carga.push(30);
         carga.push(25);
         carga.push(40);
